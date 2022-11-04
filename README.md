@@ -8,6 +8,6 @@ turtle-chat256.firebaseapp.com
 
 - Landing Page
 
-<img src="https://github.com/terkoizmy/turtle-chat/tree/main/img/home.png" alt="drawing" width="500"/>
+<img src="https://github.com/terkoizmy/turtle-chat/main/img/home.png" alt="drawing" width="500"/>
 <img src="https://github.com/terkoizmy/turtle-chat/tree/main/img/login.png" alt="drawing" width="500"/>
 <img src="https://github.com/terkoizmy/turtle-chat/tree/main/img/register.png" alt="drawing" width="500"/>
