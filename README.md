@@ -2,7 +2,7 @@
 Real-time chat web app with react & firebase
 
 # Demo app
-turtle-chat256.firebaseapp.com
+[turtle-chat256.firebaseapp.com](turtle-chat256.firebaseapp.com)
 
 # App view
 
