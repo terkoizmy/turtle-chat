@@ -1,2 +1,2 @@
 # turtle-chat
-chat web app with firebase
+Real-time chat web app with react & firebase
