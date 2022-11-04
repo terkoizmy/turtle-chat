@@ -12,5 +12,5 @@ turtle-chat256.firebaseapp.com
 
 - Menu Page
 
-<img src="https://github.com/terkoizmy/turtle-chat/blob/main/img/login.png" alt="drawing" width="300"/>  <img src="https://github.com/terkoizmy/turtle-chat/blob/main/img/register.png" alt="drawing" width="300"/>
+<img src="https://github.com/terkoizmy/turtle-chat/blob/main/img/login.png" alt="drawing" width="500"/>  <img src="https://github.com/terkoizmy/turtle-chat/blob/main/img/register.png" alt="drawing" width="500"/>
 
